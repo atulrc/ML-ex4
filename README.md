@@ -1,2 +1,1 @@
-# ML-ex4
-Octave and Python solutions of exercise 4 from Machine Learning Coursera by Andrew Ng
+Octave and Python solutions for exercise 4 for Coursera Machine Learning by Andrew Ng. Refer ex4.pdf for more details.
